@@ -28,7 +28,7 @@ To help us prioritize bugs affecting the Spinnaker community, please only report
 Absolutely!  We love code contributions too, especially for security improvements.  Please follow the [contributing guidelines](https://spinnaker.io/community/contributing/submitting/) for any changes you would like to share.  If you have any questions, feel free to contact the Security SIG by saying _hello_ in the [Spinnaker Slack](http://join.spinnaker.io) [#security-sig](https://spinnakerteam.slack.com/archives/CFN8F5UR2) channel.
 
 ## What should I expect for disclosing a vulnerability
-The spinnaker community offers no physical or financial renumeration for vulnerability disclosures.  We acknowledge the reporter on any CVEs when the submitter allows/asks as a public thank you for contributions.
+The spinnaker community does not offer remuneration for reporting of vulnerabilities. We acknowledge the reporter on the CVEs upon request as a public thank you for contributions.
 
 ## How are security bugs handled?
 
