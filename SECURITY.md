@@ -50,6 +50,9 @@ We track and monitor security vulnerabilities in Spinnaker open source code thro
 
 Once a security issue has been confirmed and evaluated, the Security SIG will work with other members of the Spinnaker community to identify individuals to develop a patch or fix for each bug.  Code changes for security issues will be developed publicly unless otherwise accepted by majority vote of the Security SIG.  We will then track released security patches in the changelog for each release and update the CVE record.
 
+## CRA Stewardship
+CRA stewardship: This project is supported under the Linux Foundation CRA stewardship framework. Our project CRA steward is The Linux Foundation and its policy is available at https://www.linuxfoundation.org/security. Security vulnerabilities should be reported through email to security@spinnaker.io which we will coordinate with our CRA steward. For actively exploited vulnerabilities or other security matters that may require CRA escalation, please use slack to try to get immediate help by directly messaging any members in the `@toc` group.
+
 ## I have another question not answered here.  Who should I talk to?
 
 For general questions about Spinnaker security, feel free to join us in the [Spinnaker Slack](http://join.spinnaker.io) [#security-sig](https://spinnakerteam.slack.com/archives/CFN8F5UR2) channel.  Questions or feedback regarding a security issue or vulnerability should be sent directly to [security@spinnaker.io](mailto://security@spinnaker.io).
